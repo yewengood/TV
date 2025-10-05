@@ -1,5 +1,5 @@
 更新时间,#genre#
-2025-10-05 18:48:37,url
+2025-10-06 06:53:28,url
 📺央视频道,#genre#
 CCTV-1,http://223.241.247.214:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-1,http://124.128.73.58:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -436,7 +436,7 @@ JJ斗地主,https://live.iill.top/douyu/488743$1920x1080
 金鹰卡通,http://58.19.43.46:9901/tsfile/live/1000_1.m3u8
 睛彩少儿,http://[2409:8087:1a01:df::4051]:80/TVOD/88888888/224/3221225903/main.m3u8
 睛彩少儿,http://[2409:8087:1a01:df::4051]/TVOD/88888888/224/3221225903/main.m3u8
-24H国漫热播,https://lunbo.freetv.top/yy/1353937086
+24H国漫热播,https://lunbo.freetv.top/yy/1353937086$1920x1080
 河北少儿科教,http://tv.pull.hebtv.com/jishi/shaoerkejiao.m3u8?t=2510710360&k=4ff4446adf3cce3de40dd013255b38b2
 河北少儿科教,http://tv.pull.hebtv.com/jishi/shaoerkejiao.flv?t=2510710360&k=87b12e4fe703265f4f59538a2399246c
 七龙珠,https://live.iill.top/huya/11601966$1920x1080
