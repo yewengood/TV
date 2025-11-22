@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
-#EXTINF:-1 tvg-name="2025-11-22 18:48:48" tvg-logo="https://live.fanmingming.com/tv/2025-11-22 18:48:48.png" group-title="更新时间",2025-11-22 18:48:48
+#EXTINF:-1 tvg-name="2025-11-23 06:56:08" tvg-logo="https://live.fanmingming.com/tv/2025-11-23 06:56:08.png" group-title="更新时间",2025-11-23 06:56:08
 url
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="📺央视频道",CCTV-1
 http://223.241.247.214:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -699,8 +699,6 @@ https://stream1.freetv.fun/tao-dian-ying-9.ctv
 https://stream1.freetv.fun/tao-dian-ying-4.ctv
 #EXTINF:-1 tvg-name="淘电影" tvg-logo="https://live.fanmingming.com/tv/淘电影.png" group-title="🎬电影频道",淘电影
 https://stream1.freetv.fun/tao-dian-ying-2.ctv
-#EXTINF:-1 tvg-name="NewTV惊悚悬疑" tvg-logo="https://live.fanmingming.com/tv/NewTV惊悚悬疑.png" group-title="🎬电影频道",NewTV惊悚悬疑
-http://[2409:8087:74d9:21::6]/270000001128/9900000113/index.m3u8
 #EXTINF:-1 tvg-name="天映经典" tvg-logo="https://live.fanmingming.com/tv/天映经典.png" group-title="🎬电影频道",天映经典
 http://ali.hlspull.yximgs.com/live/tboxprovcnydsqfqsetqqfcvbcdtsqqfvxcvsqnmbnlqqhqqnmyhsqqftydq.flv
 #EXTINF:-1 tvg-name="星空卫视" tvg-logo="https://live.fanmingming.com/tv/星空卫视.png" group-title="🎬电影频道",星空卫视
