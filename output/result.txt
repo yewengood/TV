@@ -1,5 +1,5 @@
 更新时间,#genre#
-2026-01-01 18:52:18,url
+2026-01-02 06:56:51,url
 📺央视频道,#genre#
 CCTV-1,http://218.3.138.25:1111/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-1,http://123.129.70.178:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -254,7 +254,7 @@ JJ斗地主,https://live.iill.top/douyu/488743$1920x1080
 优漫卡通,http://hsv4dcdn.qnqcdn.net/gdcucc-livod.qn-cdn.gitv.tv/gitv_live/G_YOUMAN/G_YOUMAN.m3u8?p=GITV&area=GD_CUCC&
 睛彩少儿,http://[2409:8087:1a01:df::4051]:80/TVOD/88888888/224/3221225903/main.m3u8
 睛彩少儿,http://[2409:8087:1a01:df::4051]/TVOD/88888888/224/3221225903/main.m3u8
-24H国漫热播,https://lunbo.freetv.top/yy/1353937086
+24H国漫热播,https://lunbo.freetv.top/yy/1353937086$1920x1080
 河北少儿科教,http://tv.pull.hebtv.com/jishi/shaoerkejiao.m3u8?t=2510710360&k=4ff4446adf3cce3de40dd013255b38b2
 河北少儿科教,http://tv.pull.hebtv.com/jishi/shaoerkejiao.flv?t=2510710360&k=87b12e4fe703265f4f59538a2399246c
 七龙珠,https://live.iill.top/huya/11601966$1920x1080
