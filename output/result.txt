@@ -1,5 +1,5 @@
 更新时间,#genre#
-2026-03-18 19:17:59,url
+2026-03-19 07:09:58,url
 📺央视频道,#genre#
 CCTV-1,http://123.129.70.178:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-1,http://113.57.20.185:1111/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -524,6 +524,7 @@ CHC高清电影,http://49.234.31.101:7040/tsfile/live/1052_1.m3u8?key=txiptv&pla
 NewTV惊悚悬疑,http://[2409:8087:74d9:21::6]/270000001128/9900000113/index.m3u8
 经典电影,http://49.234.31.101:7011/tsfile/live/1045_1.m3u8?key=txiptv&playlive=1&authid=0
 天映经典,http://ali.hlspull.yximgs.com/live/tboxprovcnydsqfqsetqqfcvbcdtsqqfvxcvsqnmbnlqqhqqnmyhsqqftydq.flv
+星空卫视,http://122.224.58.42:85/tsfile/live/1024_1.m3u8?key=txiptv&playlive=1&authid=0
 东森电影,https://bsex.serv00.net/Smart.php?id=ettvmovie
 东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist0.m3u8$LR•IPV4『线路1』|1920x1080
 东森超视,http://38.64.72.148:80/hls/modn/list/2013/chunklist0.m3u8$1920x1080
@@ -596,10 +597,11 @@ CN卡通,https://stream1.freetv.fun/cnqia-tong-1.ctv
 七龙珠,http://live.iill.top/huya.php?id=25650806$1920x1080
 火影忍者,http://live.iill.top/douyu.php?id=1997723$1920x1080
 火影忍者,https://live.iill.top/douyu/1997723$1920x1080
+海绵宝宝,http://cdn.jdshipin.com:8880/huya.php?id=11352919
 中华小当家,http://mtv.wuzhij.com/huya.php?id=24257300&cdn=txcdn
-斗破苍穹玄幻剧,https://live.metshop.top/yy/1356051105$1920x1080
 猫和老鼠,https://live.iill.top/huya/11352879$1920x1080
 猫和老鼠,http://live.iill.top/huya.php?id=11352879$1920x1080
+蜡笔小新,http://cdn.jdshipin.com:8880/huya.php?id=11352970
 🎮游戏频道,#genre#
 🎵音乐频道,#genre#
 CCTV-15,http://59.174.117.160:7777/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
