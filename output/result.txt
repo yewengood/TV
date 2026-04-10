@@ -1,5 +1,5 @@
 更新时间,#genre#
-2026-04-10 19:20:05,url
+2026-04-11 07:14:30,url
 📺央视频道,#genre#
 CCTV-1,http://123.129.70.178:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-1,http://113.57.20.185:1111/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -390,8 +390,6 @@ JJ斗地主,https://live.iill.top/douyu/488743$1920x1080
 优漫卡通,http://hsv4dcdn.qnqcdn.net/gdcucc-livod.qn-cdn.gitv.tv/gitv_live/G_YOUMAN/G_YOUMAN.m3u8?p=GITV&area=GD_CUCC&$LR•IPV4『线路15』
 优漫卡通,http://hsv4dcdn.qnqcdn.net/gdcucc-livod.qn-cdn.gitv.tv/gitv_live/G_YOUMAN/G_YOUMAN.m3u8?p=GITV&area=GD_CUCC&
 金鹰卡通,http://49.234.31.101:7040/tsfile/live/1060_1.m3u8?key=txiptv&playlive=1&authid=0
-睛彩少儿,http://[2409:8087:1a01:df::4051]:80/TVOD/88888888/224/3221225903/main.m3u8
-睛彩少儿,http://[2409:8087:1a01:df::4051]/TVOD/88888888/224/3221225903/main.m3u8
 河北少儿科教,http://tv.pull.hebtv.com/jishi/shaoerkejiao.m3u8?t=2510710360&k=4ff4446adf3cce3de40dd013255b38b2
 河北少儿科教,http://tv.pull.hebtv.com/jishi/shaoerkejiao.flv?t=2510710360&k=87b12e4fe703265f4f59538a2399246c
 七龙珠,https://live.iill.top/huya/11601966$1920x1080
@@ -400,11 +398,9 @@ JJ斗地主,https://live.iill.top/douyu/488743$1920x1080
 七龙珠,http://live.iill.top/huya.php?id=25650806$1920x1080
 火影忍者,http://live.iill.top/douyu.php?id=1997723$1920x1080
 火影忍者,https://live.iill.top/douyu/1997723$1920x1080
-海绵宝宝,http://cdn.jdshipin.com:8880/huya.php?id=11352919
 中华小当家,http://mtv.wuzhij.com/huya.php?id=24257300&cdn=txcdn
 猫和老鼠,https://live.iill.top/huya/11352879$1920x1080
 猫和老鼠,http://live.iill.top/huya.php?id=11352879$1920x1080
-蜡笔小新,http://cdn.jdshipin.com:8880/huya.php?id=11352970
 🎮游戏频道,#genre#
 🎵音乐频道,#genre#
 CCTV-15,http://59.174.117.160:7777/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
