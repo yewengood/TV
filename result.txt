@@ -1,5 +1,5 @@
 更新时间,#genre#
-2026-09-25 23:31:30,url
+2026-09-26 09:01:30,url
 📺央视频道,#genre#
 CCTV-1,http://113.57.20.185:1111/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-1,http://49.234.31.101:7011/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -86,7 +86,6 @@ CCTV-13,http://222.134.245.16:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1
 CCTV-13,http://49.234.31.101:7011/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-13,http://125.93.74.27:9002/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-13,http://113.57.20.185:1111/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-13,http://go.bkpcp.top/mg/cctv13
 CCTV-14,http://113.57.20.185:1111/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-14,http://49.234.31.101:7011/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-14,http://125.93.74.27:9002/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -368,13 +367,13 @@ CCTV-5+,http://49.234.31.101:7011/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&
 超级体育,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1000000001000009601/1.m3u8?channel-id=ystenlive&Contentid=1000000001000009601&livemode=1&stbId=3
 精品体育,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1000000004000014634/index.m3u8?channel-id=ystenlive&Contentid=1000000004000014634&livemode=1&stbId=no
 精品体育,http://111.31.22.5/cache.ott.fifalive.itv.cmvideo.cn/000000001000/1000000004000014634/1.m3u8?channel-id=ystenlive&Contentid=1000000004000014634&livemode=1&stbId=3
-辽宁体育,http://120.76.248.139/live/bfgd/4200000611.m3u8
+辽宁体育,http://120.76.248.139/live/bfgd/4200000611.m3u8$1920x1080
 山东体育,http://222.134.245.16:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
 山东体育,http://livealone302.iqilu.com/iqilu/typd.m3u8
 风云足球,http://49.234.31.101:7011/tsfile/live/1094_1.m3u8?key=txiptv&playlive=1&authid=0
 风云足球,http://113.57.20.185:1111/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&authid=0
 足球频道,http://49.234.31.101:7011/tsfile/live/1109_1.m3u8?key=txiptv&playlive=1&authid=0
-天元围棋,http://120.76.248.139/live/bfgd/4200000633.m3u8
+天元围棋,http://120.76.248.139/live/bfgd/4200000633.m3u8$1920x1080
 🪁动画频道,#genre#
 少儿动画,http://49.234.31.101:7011/tsfile/live/1042_1.m3u8?key=txiptv&playlive=1&authid=0
 卡酷动画,http://125.93.74.27:9002/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
