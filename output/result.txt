@@ -1,5 +1,5 @@
 更新时间,#genre#
-2026-10-02 09:56:45,url
+2026-10-03 00:41:19,url
 📺央视频道,#genre#
 CCTV-1,http://74.91.26.218:82/live/cctv1hd.m3u8$1920x1080
 CCTV-1,http://113.57.20.185:1111/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -423,6 +423,7 @@ CHC高清电影,http://49.234.31.101:7040/tsfile/live/1052_1.m3u8?key=txiptv&pla
 淘电影,https://stream1.freetv.fun/tao-dian-ying-4.ctv
 淘电影,https://stream1.freetv.fun/tao-dian-ying-2.ctv
 经典电影,http://49.234.31.101:7011/tsfile/live/1045_1.m3u8?key=txiptv&playlive=1&authid=0
+天映经典,http://ali.hlspull.yximgs.com/live/tboxprovcnydsqfqsetqqfcvbcdtsqqfvxcvsqnmbnlqqhqqnmyhsqqftydq.flv
 东森电影,https://bsex.serv00.net/Smart.php?id=ettvmovie
 🎥咪咕直播,#genre#
 🏀体育频道,#genre#
